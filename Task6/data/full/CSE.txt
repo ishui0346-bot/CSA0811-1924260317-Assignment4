@@ -1,0 +1,6 @@
+192311001;Arun Kumar;arun.kumar@college.edu;Dance
+192311002;Bhavana S;bhavana@college.edu;Singing
+192311003;Chitra R;chitra_r@mail.com;Drama
+192311001;Arun Kumar;arun.kumar@college.edu;dance
+192311004;Dev R;dev.college.edu;Quiz
+192311005;Elan S;elan@college.edu

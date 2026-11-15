@@ -1,0 +1,7 @@
+Invalid lines and file problems (6)
+CSE.txt:5: invalid email 'dev.college.edu' | '192311004;Dev R;dev.college.edu;Quiz'
+CSE.txt:6: expected 4 fields separated by ';', found 3 | '192311005;Elan S;elan@college.edu'
+ECE.txt:4: empty line | ''
+ECE.txt:5: register number 'xyz' must be 9 digits | 'xyz;Fathima;fathima@college.edu;Quiz'
+MECH.txt:2: invalid email 'gowri@college' | '192313002;Gowri K;gowri@college;Drama'
+EEE.txt: FILE PROBLEM - EEE.txt: file not found (cause: FileNotFoundError)

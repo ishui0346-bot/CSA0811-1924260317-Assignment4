@@ -1,0 +1,2 @@
+# Only the Python standard library is used (pathlib, decimal, datetime, tracemalloc, subprocess, tempfile, difflib, traceback, unittest-free asserts).
+# No pip install needed. Python 3.12.

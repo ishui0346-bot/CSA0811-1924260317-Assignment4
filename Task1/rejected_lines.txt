@@ -1,0 +1,5 @@
+3	192311003,Chitra,abc	amount 'abc' is not a number
+5	192311005,Eswari	expected 3 fields, found 2
+6	192311006,Farook,"1,200.00"	expected 3 fields, found 4
+7	192311007,Gowri,-50.00	amount -50.00 is not a valid bill
+9	192311009,Indu,NaN	amount NaN is not a valid bill

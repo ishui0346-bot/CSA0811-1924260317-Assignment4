@@ -1,0 +1,9 @@
+192311001;Arun Kumar;arun.college.edu;Dance
+192311002;Bhavana S;bhavana@@college.edu;Singing
+192311003;Chitra R;chitra@college;Drama
+192311004;Dev R;@college.edu;Quiz
+192311005;Elan S;elan @college.edu;Dance
+192311006;Fathima B;fathima@college.e;Singing
+192311007;Gopi L;gopi@.college.edu;Drama
+192311008;Hema D;hema..d@college.edu;Quiz
+192311009;Ishaan J;ISHAAN@College.EDU;Dance

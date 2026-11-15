@@ -1,0 +1,19 @@
+FEST REGISTRATION SUMMARY
+============================================================
+Department  File status            Lines  Valid  Dupl.  Invalid
+CSE         read                       3      3      0        0
+ECE         read                       2      2      0        0
+MECH        read                       2      2      0        0
+CIVIL       read                       1      1      0        0
+EEE         MISSING                    0      0      0        0
+------------------------------------------------------------
+Accepted registrations : 8
+Duplicates removed     : 0
+Invalid / damaged lines: 0
+Department files missing or unreadable: 1
+
+Registrations per event:
+  Dance            2
+  Drama            2
+  Quiz             2
+  Singing          2

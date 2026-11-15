@@ -1,0 +1,8 @@
+Invalid lines and file problems (7)
+CSE.txt:2: expected 4 fields separated by ';', found 3 | '192311002;Bhavana S;bhavana@college.edu'
+CSE.txt:3: register number 'abc' must be 9 digits | 'abc;Chitra R;chitra@college.edu;Drama'
+CSE.txt:4: empty line | ''
+CSE.txt:5: expected 4 fields separated by ';', found 5 | '192311004;Dev R;dev@college.edu;Quiz;extra'
+CSE.txt:6: register number '' must be 9 digits | ';;;'
+CSE.txt:7: name is empty | '192311006;   ;fathima@college.edu;Singing'
+CSE.txt:8: empty line | ''

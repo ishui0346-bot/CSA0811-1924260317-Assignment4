@@ -1,0 +1,12 @@
+--- run 2024-08: 5 damaged line(s) ---
+attendance_2024-08-05.txt:5: '192311004,2024-08-05,Z' -> status 'Z' must be P or A
+attendance_2024-08-08.txt:5: '192311009,2024-08' -> expected 3 fields, found 2
+attendance_2024-08-14.txt:5: 'abc,2024-08-14,P' -> register number 'abc' must be 9 digits
+attendance_2024-08-19.txt:5: '192311002,2024-13-45,P' -> date '2024-13-45' is not YYYY-MM-DD
+attendance_2024-08-22.txt:5: '' -> empty line
+--- run 2024-08: 5 damaged line(s) ---
+attendance_2024-08-05.txt:5: '192311004,2024-08-05,Z' -> status 'Z' must be P or A
+attendance_2024-08-08.txt:5: '192311009,2024-08' -> expected 3 fields, found 2
+attendance_2024-08-14.txt:5: 'abc,2024-08-14,P' -> register number 'abc' must be 9 digits
+attendance_2024-08-19.txt:5: '192311002,2024-13-45,P' -> date '2024-13-45' is not YYYY-MM-DD
+attendance_2024-08-22.txt:5: '' -> empty line
